@@ -1,1 +1,1 @@
-# MSD25-star-
+OOC_PROGRAM -25
